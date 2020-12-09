@@ -1,7 +1,9 @@
 ---
 title: Native APIs
-tableOfContents: false
+hide_table_of_contents: true
 ---
+import DocsCard from '@site/src/components/DocsCard';
+import DocsCards from '@site/src/components/DocsCards';
 
 <p class='intro'>Build native-powered app experiences with a collection of open source and premium plugins and integrations that make it easy to add native device functionality to any Ionic app with Capacitor or Cordova.</p>
 
