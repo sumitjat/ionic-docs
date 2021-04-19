@@ -1,5 +1,6 @@
 ---
 sidebar_label: Adding Mobile
+strip_number_prefixes: false
 ---
 
 # Adding Mobile

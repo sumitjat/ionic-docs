@@ -1,5 +1,6 @@
 ---
 sidebar_label: Saving Photos
+strip_number_prefixes: false
 ---
 
 # Saving Photos to the Filesystem

@@ -1,5 +1,6 @@
 ---
 sidebar_label: Taking Photos
+strip_number_prefixes: false
 ---
 
 # Taking Photos with the Camera

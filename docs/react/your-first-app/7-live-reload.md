@@ -1,5 +1,6 @@
 ---
 sidebar_label: Live Reload
+strip_number_prefixes: false
 ---
 
 # Rapid App Development with Live Reload

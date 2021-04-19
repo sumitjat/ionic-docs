@@ -1,4 +1,5 @@
 ---
+strip_number_prefixes: false
 ---
 
 # Adding Mobile

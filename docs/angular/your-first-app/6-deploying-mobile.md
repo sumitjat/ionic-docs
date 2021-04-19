@@ -1,5 +1,6 @@
 ---
 sidebar_label: Deploying Mobile
+strip_number_prefixes: false
 ---
 
 # Deploying to iOS and Android

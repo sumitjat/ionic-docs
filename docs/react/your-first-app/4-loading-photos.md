@@ -1,5 +1,6 @@
 ---
 sidebar_label: Loading Photos
+strip_number_prefixes: false
 ---
 
 # Loading Photos from the Filesystem
